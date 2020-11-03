@@ -6,7 +6,7 @@ class NumIsEven{
 	System.out.println( number[i] + "number is even");
 	}
 	else{
-	System.out.println( number[i] + "number is false");
+	System.out.println( number[i] + "number is odd");
 	}
 	}
 }
